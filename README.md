@@ -7,3 +7,4 @@ Si la vie atteint zéro, le personnage est mort.
 
 a) Player : attributs et initialize
 Un joueur possède 2 attributs que tu vas mettre en attr_accessor : un nom @name (string) et un niveau de vie @life_points (integer).
+# mini_jeu_POO.rb
